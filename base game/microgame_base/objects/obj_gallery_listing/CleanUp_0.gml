@@ -1,0 +1,4 @@
+
+
+text.cleanup();
+

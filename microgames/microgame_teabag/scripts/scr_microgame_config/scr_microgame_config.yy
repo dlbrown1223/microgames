@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_microgame_config",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_microgame_config",
+  "parent":{
+    "name":"Microgame",
+    "path":"folders/Microgame.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

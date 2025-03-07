@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"pt_shape2",
+  "closed":true,
+  "kind":1,
+  "name":"pt_shape2",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":11.900513,"y":16.003548,},
+    {"speed":100.0,"x":41.110477,"y":2.4377127,},
+    {"speed":100.0,"x":53.88628,"y":19.996433,},
+    {"speed":100.0,"x":36.469906,"y":25.5943,},
+    {"speed":100.0,"x":39.583786,"y":37.06049,},
+    {"speed":100.0,"x":59.313324,"y":31.024902,},
+    {"speed":100.0,"x":57.9361,"y":52.412804,},
+    {"speed":100.0,"x":12.178093,"y":51.302483,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
